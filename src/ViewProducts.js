@@ -87,7 +87,7 @@ const handleEdit = (productId) => {
   {currentProducts.map((product) => (
     <li key={product.id} className="product-card">
       <img
-        src={`http://localhost:5000${product.image_url}`}
+        src={`https://olukosi-carpets.onrender.com${product.image_url}`}
         alt={product.name}
         className="product-image"
       />
