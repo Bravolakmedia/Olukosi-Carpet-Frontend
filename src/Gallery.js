@@ -84,7 +84,7 @@ const Gallery = () => {
       </div>
     ))
   )}
-</div>&#8203;:contentReference[oaicite:3]{index=3}
+</div>
 
 
 
