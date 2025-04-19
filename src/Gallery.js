@@ -56,7 +56,7 @@ const Gallery = () => {
             <h1>Gallery</h1>
             <p>Kindly go through the pictures of our carpets and canopy brands.</p>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 px-4 max-w-6xl mx-auto">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 px-4 max-w-6xl mx-auto">
   {currentProducts.length === 0 ? (
     <p className="col-span-full text-center">No products found.</p>
   ) : (
@@ -84,7 +84,7 @@ const Gallery = () => {
       </div>
     ))
   )}
-</div>
+</div>&#8203;:contentReference[oaicite:3]{index=3}
 
 
 
